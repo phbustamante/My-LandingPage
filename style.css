@@ -1,0 +1,20 @@
+.texto-menor {
+    font-size:13px;
+
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.botao-cian{
+    background-color: #5b6481;
+    border-radius: 3px;
+    padding: 10px;
+    color:#fff;
+    text-decoration: none;
+  
+ }
+.cor-icon {
+    color: #71f3d3;
+}
