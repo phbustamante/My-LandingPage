@@ -18,3 +18,14 @@
 .cor-icon {
     color: #71f3d3;
 }
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
+
